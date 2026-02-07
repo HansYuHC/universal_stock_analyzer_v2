@@ -1,0 +1,3534 @@
+{
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "search_terms": [
+        "appl",
+        "aapl",
+        "inc.",
+        "apple inc.",
+        "apple",
+        "apple inc",
+        "app le"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "search_terms": [
+        "msft",
+        "microsoft corporation",
+        "microsoft oration",
+        "microsoft",
+        "micorsoft",
+        "corporation",
+        "micro soft"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A (Google)",
+      "search_terms": [
+        "googl",
+        "goog le",
+        "gogle",
+        "inc.",
+        "alphabet inc class a (google)",
+        "alphabet",
+        "alphabet inc. class a (google)",
+        "alphabet  class a (google)",
+        "goog",
+        "class",
+        "(google)",
+        "googel"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C (Google)",
+      "search_terms": [
+        "goog le",
+        "gogle",
+        "inc.",
+        "alphabet",
+        "alphabet  class c (google)",
+        "alphabet inc. class c (google)",
+        "alphabet inc class c (google)",
+        "goog",
+        "class",
+        "(google)",
+        "googel"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "search_terms": [
+        "amazoncom inc",
+        "amzn",
+        "inc.",
+        "am azon",
+        "amozon",
+        "amazon.com",
+        "amazon.com inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc.",
+      "search_terms": [
+        "inc.",
+        "meta platforms inc.",
+        "meta platforms inc",
+        "meta",
+        "meta platforms",
+        "platforms"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "search_terms": [
+        "nvidia corporation",
+        "nivida",
+        "nvidia",
+        "nvid ia",
+        "corporation",
+        "nvda",
+        "nvidia oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "search_terms": [
+        "tesla inc",
+        "tes la",
+        "inc.",
+        "tesla inc.",
+        "tsla",
+        "tesla"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "search_terms": [
+        "intel",
+        "intel corporation",
+        "intel oration",
+        "corporation",
+        "intc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc.",
+      "search_terms": [
+        "advanced micro devices",
+        "amd",
+        "inc.",
+        "devices",
+        "advanced",
+        "advanced micro devices inc",
+        "advanced micro devices inc.",
+        "micro"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "search_terms": [
+        "inc.",
+        "adbe",
+        "adobe inc.",
+        "adobe inc",
+        "adobe"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce Inc.",
+      "search_terms": [
+        "inc.",
+        "crm",
+        "salesforce inc.",
+        "salesforce inc",
+        "salesforce"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems Inc.",
+      "search_terms": [
+        "cisco systems",
+        "inc.",
+        "cisco",
+        "cisco systems inc",
+        "systems",
+        "cisco systems inc.",
+        "csco"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "search_terms": [
+        "orcl",
+        "oracle corporation",
+        "corporation",
+        "oracle oration",
+        "oracle"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines",
+      "search_terms": [
+        "ibm",
+        "business",
+        "machines",
+        "international business machines",
+        "international"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm Inc.",
+      "search_terms": [
+        "inc.",
+        "qualcomm",
+        "qcom",
+        "qualcomm inc",
+        "qualcomm inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments",
+      "search_terms": [
+        "texas",
+        "texas instruments",
+        "instruments",
+        "txn"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "search_terms": [
+        "broadcom inc.",
+        "inc.",
+        "avgo",
+        "broadcom",
+        "broadcom inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow Inc.",
+      "search_terms": [
+        "servicenow inc",
+        "inc.",
+        "servicenow",
+        "now",
+        "servicenow inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings Inc.",
+      "search_terms": [
+        "inc.",
+        "paypal holdings inc.",
+        "paypal holdings",
+        "paypal",
+        "pypl",
+        "paypal holdings inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SQ",
+      "name": "Block Inc.",
+      "search_terms": [
+        "block inc",
+        "block",
+        "inc.",
+        "block inc.",
+        "sq"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "UBER",
+      "name": "Uber Technologies Inc.",
+      "search_terms": [
+        "technologies",
+        "inc.",
+        "uber technologies inc",
+        "uber technologies inc.",
+        "uber technologies",
+        "uber"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "LYFT",
+      "name": "Lyft Inc.",
+      "search_terms": [
+        "lyft",
+        "inc.",
+        "lyft inc",
+        "lyft inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SHOP",
+      "name": "Shopify Inc.",
+      "search_terms": [
+        "shopify inc",
+        "inc.",
+        "shopify inc.",
+        "shop",
+        "shopify"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc.",
+      "search_terms": [
+        "cloudflare inc.",
+        "inc.",
+        "net",
+        "cloudflare",
+        "cloudflare inc"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "SNOW",
+      "name": "Snowflake Inc.",
+      "search_terms": [
+        "snowflake inc.",
+        "inc.",
+        "snowflake inc",
+        "snow",
+        "snowflake"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DDOG",
+      "name": "Datadog Inc.",
+      "search_terms": [
+        "datadog",
+        "datadog inc",
+        "inc.",
+        "datadog inc.",
+        "ddog"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings",
+      "search_terms": [
+        "crowdstrike holdings",
+        "crowdstrike",
+        "crwd"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ZS",
+      "name": "Zscaler Inc.",
+      "search_terms": [
+        "inc.",
+        "zscaler inc.",
+        "zscaler",
+        "zscaler inc",
+        "zs"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks",
+      "search_terms": [
+        "palo alto networks",
+        "alto",
+        "palo",
+        "networks",
+        "panw"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "FTNT",
+      "name": "Fortinet Inc.",
+      "search_terms": [
+        "fortinet inc",
+        "inc.",
+        "fortinet",
+        "ftnt",
+        "fortinet inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "search_terms": [
+        "micron technology",
+        "mu",
+        "micron",
+        "technology"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials",
+      "search_terms": [
+        "applied materials",
+        "amat",
+        "materials",
+        "applied"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research",
+      "search_terms": [
+        "research",
+        "lrcx",
+        "lam",
+        "lam research"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "search_terms": [
+        "kla",
+        "kla corporation",
+        "klac",
+        "corporation",
+        "kla oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding",
+      "search_terms": [
+        "asml holding",
+        "holding",
+        "asml"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors",
+      "search_terms": [
+        "nxp semiconductors",
+        "nxp",
+        "nxpi",
+        "semiconductors"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "search_terms": [
+        "mrvl",
+        "marvell technology",
+        "marvell",
+        "technology"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "SWKS",
+      "name": "Skyworks Solutions",
+      "search_terms": [
+        "solutions",
+        "skyworks solutions",
+        "skyworks",
+        "swks"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "QRVO",
+      "name": "Qorvo Inc.",
+      "search_terms": [
+        "qorvo inc",
+        "inc.",
+        "qorvo",
+        "qorvo inc.",
+        "qrvo"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MCHP",
+      "name": "Microchip Technology",
+      "search_terms": [
+        "microchip technology",
+        "technology",
+        "microchip",
+        "mchp"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc.",
+      "search_terms": [
+        "intuit inc.",
+        "inc.",
+        "intuit",
+        "intuit inc",
+        "intu"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ADSK",
+      "name": "Autodesk Inc.",
+      "search_terms": [
+        "autodesk inc",
+        "adsk",
+        "inc.",
+        "autodesk inc.",
+        "autodesk"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ANSS",
+      "name": "ANSYS Inc.",
+      "search_terms": [
+        "anss",
+        "ansys inc.",
+        "ansys inc",
+        "inc.",
+        "ansys"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CDNS",
+      "name": "Cadence Design Systems",
+      "search_terms": [
+        "design",
+        "cadence",
+        "cadence design systems",
+        "cdns",
+        "systems"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SNPS",
+      "name": "Synopsys Inc.",
+      "search_terms": [
+        "synopsys inc",
+        "inc.",
+        "synopsys",
+        "snps",
+        "synopsys inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TEAM",
+      "name": "Atlassian Corporation",
+      "search_terms": [
+        "atlassian oration",
+        "corporation",
+        "team",
+        "atlassian",
+        "atlassian corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TWLO",
+      "name": "Twilio Inc.",
+      "search_terms": [
+        "twilio",
+        "inc.",
+        "twilio inc",
+        "twilio inc.",
+        "twlo"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ZM",
+      "name": "Zoom Video Communications",
+      "search_terms": [
+        "video",
+        "communications",
+        "zm",
+        "zoom video communications",
+        "zoom"
+      ],
+      "category": "communication"
+    },
+    {
+      "symbol": "DOCU",
+      "name": "DocuSign Inc.",
+      "search_terms": [
+        "docusign inc",
+        "docusign inc.",
+        "inc.",
+        "docu",
+        "docusign"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "OKTA",
+      "name": "Okta Inc.",
+      "search_terms": [
+        "okta inc.",
+        "okta",
+        "okta inc",
+        "inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SPLK",
+      "name": "Splunk Inc.",
+      "search_terms": [
+        "splunk inc",
+        "splunk inc.",
+        "splunk",
+        "inc.",
+        "splk"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ESTC",
+      "name": "Elastic N.V.",
+      "search_terms": [
+        "elastic nv",
+        "n.v.",
+        "elastic n.v.",
+        "estc",
+        "elastic"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MDB",
+      "name": "MongoDB Inc.",
+      "search_terms": [
+        "mongodb inc.",
+        "mongodb inc",
+        "inc.",
+        "mdb",
+        "mongodb"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DBX",
+      "name": "Dropbox Inc.",
+      "search_terms": [
+        "dropbox",
+        "inc.",
+        "dropbox inc.",
+        "dropbox inc",
+        "dbx"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "search_terms": [
+        "palantir",
+        "technologies",
+        "palantir technologies",
+        "pltr"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "PATH",
+      "name": "UiPath Inc.",
+      "search_terms": [
+        "path",
+        "inc.",
+        "uipath inc",
+        "uipath",
+        "uipath inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BILL",
+      "name": "Bill.com Holdings",
+      "search_terms": [
+        "billcom holdings",
+        "bill",
+        "bill.com",
+        "bill.com holdings"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "search_terms": [
+        "chase",
+        "jpmorgan chase &",
+        "jpmorgan",
+        "jpmorgan chase and co",
+        "jpmorgan chase & co.",
+        "co.",
+        "jpm"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "search_terms": [
+        "bank of america corporation",
+        "corporation",
+        "bac",
+        "america",
+        "bank of america oration",
+        "bank"
+      ],
+      "category": "financial"
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "search_terms": [
+        "wells fargo and company",
+        "fargo",
+        "wfc",
+        "wells fargo & company",
+        "wells fargo &",
+        "wells",
+        "company"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "search_terms": [
+        "c",
+        "citigroup inc.",
+        "inc.",
+        "citigroup",
+        "citigroup inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group Inc.",
+      "search_terms": [
+        "gs",
+        "inc.",
+        "goldman",
+        "sachs",
+        "goldman sachs group inc",
+        "goldman sachs group inc.",
+        "goldman sachs group"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "search_terms": [
+        "morgan stanley",
+        "ms",
+        "stanley",
+        "morgan"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SCHW",
+      "name": "Charles Schwab Corporation",
+      "search_terms": [
+        "schwab",
+        "charles schwab oration",
+        "charles",
+        "schw",
+        "corporation",
+        "charles schwab corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock Inc.",
+      "search_terms": [
+        "blackrock inc",
+        "blackrock",
+        "inc.",
+        "blackrock inc.",
+        "blk"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "search_terms": [
+        "american express",
+        "american",
+        "american express company",
+        "express",
+        "axp",
+        "company"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "COF",
+      "name": "Capital One Financial",
+      "search_terms": [
+        "capital",
+        "financial",
+        "cof",
+        "one",
+        "capital one financial"
+      ],
+      "category": "financial"
+    },
+    {
+      "symbol": "USB",
+      "name": "U.S. Bancorp",
+      "search_terms": [
+        "u.s.",
+        "u.s. bancorp",
+        "us bancorp",
+        "usb",
+        "u.s. ban",
+        "bancorp"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PNC",
+      "name": "PNC Financial Services",
+      "search_terms": [
+        "financial",
+        "pnc financial services",
+        "pnc",
+        "services"
+      ],
+      "category": "financial"
+    },
+    {
+      "symbol": "TFC",
+      "name": "Truist Financial",
+      "search_terms": [
+        "financial",
+        "truist financial",
+        "tfc",
+        "truist"
+      ],
+      "category": "financial"
+    },
+    {
+      "symbol": "BK",
+      "name": "Bank of New York Mellon",
+      "search_terms": [
+        "new",
+        "bk",
+        "mellon",
+        "york",
+        "bank of new york mellon",
+        "bank"
+      ],
+      "category": "financial"
+    },
+    {
+      "symbol": "STT",
+      "name": "State Street Corporation",
+      "search_terms": [
+        "state street corporation",
+        "state",
+        "stt",
+        "street",
+        "corporation",
+        "state street oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc.",
+      "search_terms": [
+        "inc.",
+        "v",
+        "visa inc",
+        "visa inc.",
+        "visa"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated",
+      "search_terms": [
+        "ma",
+        "incorporated",
+        "mastercard orporated",
+        "mastercard",
+        "mastercard incorporated"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv Inc.",
+      "search_terms": [
+        "fiserw",
+        "fiser",
+        "fiserv inc.",
+        "fiserve",
+        "fisv",
+        "fiserb",
+        "inc.",
+        "fiserv inc",
+        "fiser v",
+        "fiserv"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "FIS",
+      "name": "Fidelity National Information Services",
+      "search_terms": [
+        "fis",
+        "fidelity national information services",
+        "national",
+        "services",
+        "fidelity",
+        "information"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "GPN",
+      "name": "Global Payments Inc.",
+      "search_terms": [
+        "global payments inc.",
+        "inc.",
+        "global",
+        "payments",
+        "gpn",
+        "global payments",
+        "global payments inc"
+      ],
+      "category": "financial"
+    },
+    {
+      "symbol": "AFRM",
+      "name": "Affirm Holdings",
+      "search_terms": [
+        "affirm",
+        "afrm",
+        "affirm holdings"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "search_terms": [
+        "technologies",
+        "sofi technologies",
+        "sofi"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "LC",
+      "name": "LendingClub Corp",
+      "search_terms": [
+        "lendingclub",
+        "lc",
+        "lendingclub corp"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "UPST",
+      "name": "Upstart Holdings",
+      "search_terms": [
+        "upstart",
+        "upst",
+        "upstart holdings"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Class B",
+      "search_terms": [
+        "berkshire hathaway class b",
+        "berkshire",
+        "brk",
+        "hathaway",
+        "berk shire",
+        "brk.b",
+        "class"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "search_terms": [
+        "unitedhealth",
+        "incorporated",
+        "unh",
+        "unitedhealth group incorporated",
+        "unitedhealth group orporated"
+      ],
+      "category": "healthcare"
+    },
+    {
+      "symbol": "ANTM",
+      "name": "Anthem Inc.",
+      "search_terms": [
+        "antm",
+        "inc.",
+        "anthem inc",
+        "anthem inc.",
+        "anthem"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "HUM",
+      "name": "Humana Inc.",
+      "search_terms": [
+        "inc.",
+        "hum",
+        "humana",
+        "humana inc.",
+        "humana inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CI",
+      "name": "Cigna Corporation",
+      "search_terms": [
+        "cigna",
+        "ci",
+        "cigna corporation",
+        "corporation",
+        "cigna oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "AET",
+      "name": "Aetna Inc.",
+      "search_terms": [
+        "inc.",
+        "aetna",
+        "aet",
+        "aetna inc.",
+        "aetna inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CVS",
+      "name": "CVS Health Corporation",
+      "search_terms": [
+        "cvs",
+        "cvs health corporation",
+        "cvs health oration",
+        "health",
+        "corporation"
+      ],
+      "category": "healthcare"
+    },
+    {
+      "symbol": "MET",
+      "name": "MetLife Inc.",
+      "search_terms": [
+        "metlife inc.",
+        "inc.",
+        "metlife inc",
+        "metlife",
+        "met"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PRU",
+      "name": "Prudential Financial",
+      "search_terms": [
+        "financial",
+        "prudential financial",
+        "pru",
+        "prudential"
+      ],
+      "category": "financial"
+    },
+    {
+      "symbol": "AIG",
+      "name": "American International Group",
+      "search_terms": [
+        "aig",
+        "american international group",
+        "international",
+        "american"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ALL",
+      "name": "Allstate Corporation",
+      "search_terms": [
+        "all",
+        "allstate oration",
+        "allstate",
+        "allstate corporation",
+        "corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TRV",
+      "name": "Travelers Companies",
+      "search_terms": [
+        "travelers",
+        "trv",
+        "companies",
+        "travelers companies"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PGR",
+      "name": "Progressive Corporation",
+      "search_terms": [
+        "progressive oration",
+        "progressive corporation",
+        "progressive",
+        "pgr",
+        "corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ICE",
+      "name": "Intercontinental Exchange",
+      "search_terms": [
+        "ice",
+        "intercontinental exchange",
+        "intercontinental",
+        "exchange"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CME",
+      "name": "CME Group Inc.",
+      "search_terms": [
+        "cme group inc.",
+        "inc.",
+        "cme",
+        "cme group inc",
+        "cme group"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NDAQ",
+      "name": "Nasdaq Inc.",
+      "search_terms": [
+        "nasdaq",
+        "inc.",
+        "nasdaq inc",
+        "nasdaq inc.",
+        "ndaq"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MSCI",
+      "name": "MSCI Inc.",
+      "search_terms": [
+        "msci",
+        "msci inc",
+        "msci inc.",
+        "inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SPGI",
+      "name": "S&P Global Inc.",
+      "search_terms": [
+        "s&p",
+        "s&p global",
+        "inc.",
+        "global",
+        "spgi",
+        "s&p global inc.",
+        "sandp global inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MCO",
+      "name": "Moody's Corporation",
+      "search_terms": [
+        "moody's oration",
+        "corporation",
+        "mco",
+        "moody's",
+        "moody's corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "FDS",
+      "name": "FactSet Research Systems",
+      "search_terms": [
+        "factset",
+        "fds",
+        "factset research systems",
+        "systems",
+        "research"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "search_terms": [
+        "johnson",
+        "johnson & johnson",
+        "jnj",
+        "johnson and johnson"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "search_terms": [
+        "pfe",
+        "pfizer inc.",
+        "inc.",
+        "pfizer",
+        "pfizer inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co. Inc.",
+      "search_terms": [
+        "merck &",
+        "merck & co. inc.",
+        "inc.",
+        "merck",
+        "merck and co inc",
+        "co.",
+        "mrk"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "search_terms": [
+        "abt",
+        "laboratories",
+        "abbott laboratories",
+        "abbott"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb",
+      "search_terms": [
+        "bmy",
+        "bristol-myers",
+        "squibb",
+        "bristol-myers squibb"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "search_terms": [
+        "eli lilly and company",
+        "eli",
+        "lilly",
+        "lly",
+        "company",
+        "eli lilly and"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "search_terms": [
+        "amgen",
+        "inc.",
+        "amgen inc",
+        "amgn",
+        "amgen inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences",
+      "search_terms": [
+        "sciences",
+        "gild",
+        "gilead sciences",
+        "gilead"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "search_terms": [
+        "pharmaceuticals",
+        "regeneron pharmaceuticals",
+        "regn",
+        "regeneron"
+      ],
+      "category": "healthcare"
+    },
+    {
+      "symbol": "VRTX",
+      "name": "Vertex Pharmaceuticals",
+      "search_terms": [
+        "vertex pharmaceuticals",
+        "vrtx",
+        "pharmaceuticals",
+        "vertex"
+      ],
+      "category": "healthcare"
+    },
+    {
+      "symbol": "BIIB",
+      "name": "Biogen Inc.",
+      "search_terms": [
+        "biogen inc",
+        "biogen inc.",
+        "inc.",
+        "biogen",
+        "biib"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CELG",
+      "name": "Celgene Corporation",
+      "search_terms": [
+        "celgene oration",
+        "corporation",
+        "celgene corporation",
+        "celgene",
+        "celg"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "search_terms": [
+        "astrazeneca",
+        "plc",
+        "astrazeneca plc",
+        "azn"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "GSK",
+      "name": "GlaxoSmithKline",
+      "search_terms": [
+        "glaxosmithkline",
+        "gsk"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NVS",
+      "name": "Novartis AG",
+      "search_terms": [
+        "novartis ag",
+        "novartis",
+        "nvs"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SNY",
+      "name": "Sanofi",
+      "search_terms": [
+        "sanofi",
+        "sny"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "search_terms": [
+        "thermo fisher scientific inc.",
+        "inc.",
+        "tmo",
+        "thermo fisher scientific",
+        "thermo fisher scientific inc",
+        "scientific",
+        "fisher",
+        "thermo"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic PLC",
+      "search_terms": [
+        "mdt",
+        "plc",
+        "medtronic plc",
+        "medtronic"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SYK",
+      "name": "Stryker Corporation",
+      "search_terms": [
+        "stryker corporation",
+        "stryker oration",
+        "corporation",
+        "stryker",
+        "syk"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BDX",
+      "name": "Becton Dickinson",
+      "search_terms": [
+        "bdx",
+        "dickinson",
+        "becton",
+        "becton dickinson"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BSX",
+      "name": "Boston Scientific",
+      "search_terms": [
+        "bsx",
+        "scientific",
+        "boston",
+        "boston scientific"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical",
+      "search_terms": [
+        "isrg",
+        "surgical",
+        "intuitive surgical",
+        "intuitive"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DXCM",
+      "name": "Dexcom Inc.",
+      "search_terms": [
+        "dexcom",
+        "dexcom inc.",
+        "inc.",
+        "dexcom inc",
+        "dxcm"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ALGN",
+      "name": "Align Technology",
+      "search_terms": [
+        "algn",
+        "align",
+        "technology",
+        "align technology"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "IDXX",
+      "name": "IDEXX Laboratories",
+      "search_terms": [
+        "idexx laboratories",
+        "idexx",
+        "laboratories",
+        "idxx"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "WST",
+      "name": "West Pharmaceutical Services",
+      "search_terms": [
+        "pharmaceutical",
+        "wst",
+        "west",
+        "services",
+        "west pharmaceutical services"
+      ],
+      "category": "healthcare"
+    },
+    {
+      "symbol": "ZBH",
+      "name": "Zimmer Biomet Holdings",
+      "search_terms": [
+        "zbh",
+        "biomet",
+        "zimmer",
+        "zimmer biomet holdings"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "WBA",
+      "name": "Walgreens Boots Alliance",
+      "search_terms": [
+        "boots",
+        "wba",
+        "alliance",
+        "walgreens",
+        "walgreens boots alliance"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "HCA",
+      "name": "HCA Healthcare",
+      "search_terms": [
+        "hca healthcare",
+        "hca",
+        "healthcare"
+      ],
+      "category": "healthcare"
+    },
+    {
+      "symbol": "DVA",
+      "name": "DaVita Inc.",
+      "search_terms": [
+        "dva",
+        "davita inc.",
+        "davita",
+        "inc.",
+        "davita inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DGX",
+      "name": "Quest Diagnostics",
+      "search_terms": [
+        "dgx",
+        "quest",
+        "quest diagnostics",
+        "diagnostics"
+      ],
+      "category": "healthcare"
+    },
+    {
+      "symbol": "LH",
+      "name": "Laboratory Corporation",
+      "search_terms": [
+        "laboratory",
+        "laboratory corporation",
+        "lh",
+        "corporation",
+        "laboratory oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina Inc.",
+      "search_terms": [
+        "illumina inc",
+        "inc.",
+        "ilmn",
+        "illumina",
+        "illumina inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "INCY",
+      "name": "Incyte Corporation",
+      "search_terms": [
+        "yte oration",
+        "incy",
+        "corporation",
+        "incyte",
+        "incyte corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "EXAS",
+      "name": "Exact Sciences Corporation",
+      "search_terms": [
+        "sciences",
+        "exact",
+        "exact sciences corporation",
+        "corporation",
+        "exact sciences oration",
+        "exas"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NTRA",
+      "name": "Natera Inc.",
+      "search_terms": [
+        "natera inc",
+        "inc.",
+        "ntra",
+        "natera inc.",
+        "natera"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "search_terms": [
+        "inc.",
+        "walmart",
+        "wal mart",
+        "walmart inc",
+        "wmt",
+        "walmart inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "search_terms": [
+        "costco",
+        "costco wholesale corporation",
+        "wholesale",
+        "cost",
+        "corporation",
+        "costco wholesale oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TGT",
+      "name": "Target Corporation",
+      "search_terms": [
+        "target corporation",
+        "tgt",
+        "target",
+        "corporation",
+        "target oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot Inc.",
+      "search_terms": [
+        "depot",
+        "home depot",
+        "home depot inc.",
+        "home",
+        "inc.",
+        "hd",
+        "home depot inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowe's Companies Inc.",
+      "search_terms": [
+        "low",
+        "lowe's companies inc",
+        "inc.",
+        "companies",
+        "lowe's",
+        "lowe's companies inc.",
+        "lowe's companies"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies",
+      "search_terms": [
+        "tjx",
+        "tjx companies",
+        "companies"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "ROST",
+      "name": "Ross Stores",
+      "search_terms": [
+        "stores",
+        "rost",
+        "ross stores",
+        "ross"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DG",
+      "name": "Dollar General",
+      "search_terms": [
+        "general",
+        "dollar",
+        "dg",
+        "dollar general"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DLTR",
+      "name": "Dollar Tree",
+      "search_terms": [
+        "dltr",
+        "dollar",
+        "tree",
+        "dollar tree"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BBY",
+      "name": "Best Buy Co.",
+      "search_terms": [
+        "best buy",
+        "bby",
+        "buy",
+        "best",
+        "best buy co.",
+        "co.",
+        "best buy co"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "KR",
+      "name": "Kroger Company",
+      "search_terms": [
+        "kr",
+        "company",
+        "kroger company",
+        "kroger"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "search_terms": [
+        "gamble",
+        "procter",
+        "procter & gamble company",
+        "procter and gamble company",
+        "pg",
+        "company",
+        "procter & gamble"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "search_terms": [
+        "coca-cola",
+        "ko",
+        "coca-cola company",
+        "company"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc.",
+      "search_terms": [
+        "inc.",
+        "pepsico",
+        "pepsico inc.",
+        "pep si",
+        "pep",
+        "pepsico inc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "KHC",
+      "name": "Kraft Heinz Company",
+      "search_terms": [
+        "kraft heinz",
+        "khc",
+        "heinz",
+        "kraft",
+        "company",
+        "kraft heinz company"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MDLZ",
+      "name": "Mondelez International",
+      "search_terms": [
+        "mondelez",
+        "international",
+        "mdlz",
+        "mondelez international"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "STZ",
+      "name": "Constellation Brands",
+      "search_terms": [
+        "stz",
+        "constellation",
+        "brands",
+        "constellation brands"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MNST",
+      "name": "Monster Beverage",
+      "search_terms": [
+        "monster beverage",
+        "monster",
+        "beverage",
+        "mnst"
+      ],
+      "category": "consumer"
+    },
+    {
+      "symbol": "KDP",
+      "name": "Keurig Dr Pepper",
+      "search_terms": [
+        "pepper",
+        "keurig dr pepper",
+        "kdp",
+        "keurig"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CL",
+      "name": "Colgate-Palmolive",
+      "search_terms": [
+        "cl",
+        "colgate-palmolive"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "EL",
+      "name": "Estee Lauder Companies",
+      "search_terms": [
+        "companies",
+        "el",
+        "estee",
+        "lauder",
+        "estee lauder companies"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation",
+      "search_terms": [
+        "mcdonald's oration",
+        "corporation",
+        "mcd",
+        "mcdonald's",
+        "mcdonald's corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "search_terms": [
+        "starbucks corporation",
+        "starbucks oration",
+        "sbux",
+        "starbucks",
+        "corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CMG",
+      "name": "Chipotle Mexican Grill",
+      "search_terms": [
+        "chipotle",
+        "chipotle mexican grill",
+        "mexican",
+        "cmg",
+        "grill"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "YUM",
+      "name": "Yum! Brands",
+      "search_terms": [
+        "yum",
+        "brands",
+        "yum! brands",
+        "yum!"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DPZ",
+      "name": "Domino's Pizza",
+      "search_terms": [
+        "domino's",
+        "dpz",
+        "pizza",
+        "domino's pizza"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike Inc.",
+      "search_terms": [
+        "nike",
+        "nike inc",
+        "nke",
+        "inc.",
+        "nike inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "LULU",
+      "name": "Lululemon Athletica",
+      "search_terms": [
+        "lululemon",
+        "athletica",
+        "lululemon athletica",
+        "lulu"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "UA",
+      "name": "Under Armour",
+      "search_terms": [
+        "ua",
+        "under",
+        "armour",
+        "under armour"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "RL",
+      "name": "Ralph Lauren Corporation",
+      "search_terms": [
+        "rl",
+        "lauren",
+        "corporation",
+        "ralph",
+        "ralph lauren oration",
+        "ralph lauren corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TIF",
+      "name": "Tiffany & Co.",
+      "search_terms": [
+        "tiffany and co",
+        "tiffany &",
+        "tiffany",
+        "tiffany & co.",
+        "co.",
+        "tif"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Company",
+      "search_terms": [
+        "company",
+        "boeing company",
+        "ba",
+        "boeing"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "search_terms": [
+        "lockheed martin oration",
+        "lmt",
+        "lockheed",
+        "martin",
+        "corporation",
+        "lockheed martin corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "RTX",
+      "name": "Raytheon Technologies",
+      "search_terms": [
+        "technologies",
+        "raytheon",
+        "raytheon technologies",
+        "rtx"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "NOC",
+      "name": "Northrop Grumman",
+      "search_terms": [
+        "northrop",
+        "grumman",
+        "northrop grumman",
+        "noc"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics",
+      "search_terms": [
+        "general",
+        "dynamics",
+        "general dynamics",
+        "gd"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "HII",
+      "name": "Huntington Ingalls Industries",
+      "search_terms": [
+        "industries",
+        "huntington ingalls industries",
+        "ingalls",
+        "hii",
+        "huntington"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "search_terms": [
+        "inc.",
+        "caterpillar inc.",
+        "caterpillar inc",
+        "caterpillar",
+        "cat"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DE",
+      "name": "Deere & Company",
+      "search_terms": [
+        "deere &",
+        "deere and company",
+        "deere & company",
+        "deere",
+        "de",
+        "company"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "GE",
+      "name": "General Electric Company",
+      "search_terms": [
+        "general electric",
+        "ge",
+        "general",
+        "general electric company",
+        "electric",
+        "company"
+      ],
+      "category": "utilities"
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "search_terms": [
+        "hon",
+        "honeywell international inc.",
+        "honeywell international",
+        "inc.",
+        "honeywell",
+        "honeywell international inc",
+        "international"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "EMR",
+      "name": "Emerson Electric",
+      "search_terms": [
+        "emerson",
+        "electric",
+        "emerson electric",
+        "emr"
+      ],
+      "category": "utilities"
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton Corporation",
+      "search_terms": [
+        "etn",
+        "eaton corporation",
+        "corporation",
+        "eaton",
+        "eaton oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "UPS",
+      "name": "United Parcel Service",
+      "search_terms": [
+        "service",
+        "parcel",
+        "ups",
+        "united parcel service",
+        "united"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "FDX",
+      "name": "FedEx Corporation",
+      "search_terms": [
+        "fedex corporation",
+        "fedex oration",
+        "corporation",
+        "fedex",
+        "fdx"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "EXPD",
+      "name": "Expeditors International",
+      "search_terms": [
+        "international",
+        "expd",
+        "expeditors international",
+        "expeditors"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CHRW",
+      "name": "C.H. Robinson Worldwide",
+      "search_terms": [
+        "c.h. robinson worldwide",
+        "chrw",
+        "robinson",
+        "worldwide",
+        "c.h.",
+        "ch robinson worldwide"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "VMC",
+      "name": "Vulcan Materials",
+      "search_terms": [
+        "vmc",
+        "vulcan materials",
+        "vulcan",
+        "materials"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MLM",
+      "name": "Martin Marietta Materials",
+      "search_terms": [
+        "martin marietta materials",
+        "marietta",
+        "martin",
+        "materials",
+        "mlm"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NUE",
+      "name": "Nucor Corporation",
+      "search_terms": [
+        "nucor corporation",
+        "corporation",
+        "nue",
+        "nucor oration",
+        "nucor"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "STLD",
+      "name": "Steel Dynamics",
+      "search_terms": [
+        "stld",
+        "steel",
+        "steel dynamics",
+        "dynamics"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CMC",
+      "name": "Commercial Metals",
+      "search_terms": [
+        "cmc",
+        "commercial metals",
+        "commercial",
+        "metals"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "search_terms": [
+        "ex on",
+        "exxon mobil corporation",
+        "exxon mobil oration",
+        "exxon",
+        "xom",
+        "corporation",
+        "mobil"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "search_terms": [
+        "cvx",
+        "che vron",
+        "chevron oration",
+        "chevron",
+        "chevron corporation",
+        "corporation"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "search_terms": [
+        "conocophillips",
+        "cop"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "search_terms": [
+        "eog",
+        "resources",
+        "eog resources"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PXD",
+      "name": "Pioneer Natural Resources",
+      "search_terms": [
+        "pxd",
+        "pioneer",
+        "pioneer natural resources",
+        "natural",
+        "resources"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "search_terms": [
+        "marathon",
+        "petroleum",
+        "marathon petroleum",
+        "mpc"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "search_terms": [
+        "psx",
+        "phillips 66",
+        "phillips"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "search_terms": [
+        "valero energy",
+        "energy",
+        "vlo",
+        "valero"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "search_terms": [
+        "oxy",
+        "petroleum",
+        "occidental petroleum",
+        "occidental"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "DVN",
+      "name": "Devon Energy",
+      "search_terms": [
+        "energy",
+        "dvn",
+        "devon energy",
+        "devon"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "SLB",
+      "name": "Schlumberger Limited",
+      "search_terms": [
+        "limited",
+        "schlumberger limited",
+        "slb",
+        "schlumberger"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "HAL",
+      "name": "Halliburton Company",
+      "search_terms": [
+        "company",
+        "halliburton company",
+        "hal",
+        "halliburton"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes Company",
+      "search_terms": [
+        "hughes",
+        "baker hughes company",
+        "baker",
+        "bkr",
+        "company",
+        "baker hughes"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NOV",
+      "name": "National Oilwell Varco",
+      "search_terms": [
+        "national",
+        "oilwell",
+        "varco",
+        "national oilwell varco",
+        "nov"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "search_terms": [
+        "energy",
+        "nextera energy",
+        "nextera",
+        "nee"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy",
+      "search_terms": [
+        "energy",
+        "duke",
+        "duke energy",
+        "duk"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Company",
+      "search_terms": [
+        "so",
+        "company",
+        "southern",
+        "southern company"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "search_terms": [
+        "d",
+        "energy",
+        "dominion",
+        "dominion energy"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "AEP",
+      "name": "American Electric Power",
+      "search_terms": [
+        "power",
+        "american",
+        "american electric power",
+        "electric",
+        "aep"
+      ],
+      "category": "utilities"
+    },
+    {
+      "symbol": "T",
+      "name": "AT&T Inc.",
+      "search_terms": [
+        "inc.",
+        "at&t inc.",
+        "atandt inc",
+        "t",
+        "at&t"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "search_terms": [
+        "vz",
+        "verizon",
+        "inc.",
+        "verizon communications inc.",
+        "communications",
+        "verizon communications inc",
+        "verizon communications"
+      ],
+      "category": "communication"
+    },
+    {
+      "symbol": "TMUS",
+      "name": "T-Mobile US Inc.",
+      "search_terms": [
+        "inc.",
+        "tmus",
+        "t-mobile us inc",
+        "t-mobile us",
+        "t-mobile",
+        "t-mobile us inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "LUMN",
+      "name": "Lumen Technologies",
+      "search_terms": [
+        "lumn",
+        "technologies",
+        "lumen",
+        "lumen technologies"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "CHTR",
+      "name": "Charter Communications",
+      "search_terms": [
+        "chtr",
+        "charter",
+        "communications",
+        "charter communications"
+      ],
+      "category": "communication"
+    },
+    {
+      "symbol": "DIS",
+      "name": "Walt Disney Company",
+      "search_terms": [
+        "walt",
+        "walt disney",
+        "walt disney company",
+        "disney",
+        "company",
+        "dis"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix Inc.",
+      "search_terms": [
+        "nflx",
+        "netflix",
+        "inc.",
+        "netflix inc",
+        "netflix inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation",
+      "search_terms": [
+        "cmcst",
+        "comcast corporation",
+        "comcast",
+        "corporation",
+        "cmcsa",
+        "comcast oration",
+        "com cast"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "FOXA",
+      "name": "Fox Corporation Class A",
+      "search_terms": [
+        "fox corporation class a",
+        "corporation",
+        "fox",
+        "class",
+        "fox oration class a",
+        "foxa"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PARA",
+      "name": "Paramount Global",
+      "search_terms": [
+        "paramount global",
+        "global",
+        "para",
+        "paramount"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "WBD",
+      "name": "Warner Bros Discovery",
+      "search_terms": [
+        "warner",
+        "bros",
+        "wbd",
+        "warner bros discovery",
+        "discovery"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "LYV",
+      "name": "Live Nation Entertainment",
+      "search_terms": [
+        "live",
+        "lyv",
+        "live nation entertainment",
+        "nation",
+        "entertainment"
+      ],
+      "category": "communication"
+    },
+    {
+      "symbol": "SPOT",
+      "name": "Spotify Technology",
+      "search_terms": [
+        "spotify",
+        "technology",
+        "spotify technology",
+        "spot"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "RBLX",
+      "name": "Roblox Corporation",
+      "search_terms": [
+        "roblox corporation",
+        "corporation",
+        "roblox oration",
+        "roblox",
+        "rblx"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis Inc.",
+      "search_terms": [
+        "prologis inc",
+        "prologis",
+        "prologis inc.",
+        "inc.",
+        "pld"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "AMT",
+      "name": "American Tower Corporation",
+      "search_terms": [
+        "tower",
+        "american tower corporation",
+        "american",
+        "corporation",
+        "amt",
+        "american tower oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "CCI",
+      "name": "Crown Castle International",
+      "search_terms": [
+        "cci",
+        "crown castle international",
+        "crown",
+        "international",
+        "castle"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "EQIX",
+      "name": "Equinix Inc.",
+      "search_terms": [
+        "eqix",
+        "equinix inc",
+        "equinix inc.",
+        "inc.",
+        "equinix"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust",
+      "search_terms": [
+        "dlr",
+        "trust",
+        "digital",
+        "realty",
+        "digital realty trust"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "PSA",
+      "name": "Public Storage",
+      "search_terms": [
+        "public",
+        "storage",
+        "public storage",
+        "psa"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "search_terms": [
+        "realty income corporation",
+        "income",
+        "o",
+        "corporation",
+        "realty ome oration",
+        "realty"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "SPG",
+      "name": "Simon Property Group",
+      "search_terms": [
+        "spg",
+        "simon property group",
+        "simon",
+        "property"
+      ],
+      "category": "real_estate"
+    },
+    {
+      "symbol": "AVB",
+      "name": "AvalonBay Communities",
+      "search_terms": [
+        "avalonbay communities",
+        "avalonbay",
+        "avb",
+        "communities"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "EQR",
+      "name": "Equity Residential",
+      "search_terms": [
+        "residential",
+        "equity",
+        "equity residential",
+        "eqr"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "VTR",
+      "name": "Ventas Inc.",
+      "search_terms": [
+        "ventas inc",
+        "ventas",
+        "inc.",
+        "ventas inc.",
+        "vtr"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "search_terms": [
+        "welltower inc.",
+        "inc.",
+        "well",
+        "welltower inc",
+        "welltower"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "EXC",
+      "name": "Exelon Corporation",
+      "search_terms": [
+        "exelon",
+        "exc",
+        "exelon corporation",
+        "corporation",
+        "exelon oration"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "XEL",
+      "name": "Xcel Energy",
+      "search_terms": [
+        "xcel",
+        "energy",
+        "xcel energy",
+        "xel"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "WEC",
+      "name": "WEC Energy Group",
+      "search_terms": [
+        "energy",
+        "wec energy group",
+        "wec"
+      ],
+      "category": "energy"
+    },
+    {
+      "symbol": "ED",
+      "name": "Consolidated Edison",
+      "search_terms": [
+        "consolidated",
+        "consolidated edison",
+        "ed",
+        "edison"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PEG",
+      "name": "Public Service Enterprise",
+      "search_terms": [
+        "service",
+        "public",
+        "enterprise",
+        "peg",
+        "public service enterprise"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing",
+      "search_terms": [
+        "taiwan semiconductor manufacturing",
+        "taiwan",
+        "semiconductor",
+        "tsm",
+        "manufacturing"
+      ],
+      "category": "technology"
+    },
+    {
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding",
+      "search_terms": [
+        "alibaba",
+        "alibaba group holding",
+        "baba",
+        "holding"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "JD",
+      "name": "JD.com Inc.",
+      "search_terms": [
+        "inc.",
+        "jdcom inc",
+        "jd.com",
+        "jd.com inc.",
+        "jd"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "PDD",
+      "name": "Pinduoduo Inc.",
+      "search_terms": [
+        "inc.",
+        "pinduoduo inc",
+        "pinduoduo inc.",
+        "pdd",
+        "pinduoduo"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "BIDU",
+      "name": "Baidu Inc.",
+      "search_terms": [
+        "baidu inc.",
+        "inc.",
+        "bidu",
+        "baidu inc",
+        "baidu"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "NIO",
+      "name": "NIO Inc.",
+      "search_terms": [
+        "inc.",
+        "nio",
+        "nio inc",
+        "nio inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "LI",
+      "name": "Li Auto Inc.",
+      "search_terms": [
+        "inc.",
+        "li auto",
+        "li auto inc",
+        "auto",
+        "li",
+        "li auto inc."
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "XPEV",
+      "name": "XPeng Inc.",
+      "search_terms": [
+        "xpeng inc.",
+        "xpeng",
+        "inc.",
+        "xpeng inc",
+        "xpev"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "TCEHY",
+      "name": "Tencent Holdings",
+      "search_terms": [
+        "tencent",
+        "tencent holdings",
+        "tcehy"
+      ],
+      "category": "other"
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv Inc. (自动修正)",
+      "search_terms": [
+        "fiserv"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv Inc. (自动修正)",
+      "search_terms": [
+        "fiserw"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv Inc. (自动修正)",
+      "search_terms": [
+        "fiserb"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv Inc. (自动修正)",
+      "search_terms": [
+        "fiserve"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv Inc. (自动修正)",
+      "search_terms": [
+        "fiser v"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv Inc. (自动修正)",
+      "search_terms": [
+        "fiserv inc"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A (Google) (自动修正)",
+      "search_terms": [
+        "goog"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A (Google) (自动修正)",
+      "search_terms": [
+        "google"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A (Google) (自动修正)",
+      "search_terms": [
+        "googel"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A (Google) (自动修正)",
+      "search_terms": [
+        "gogle"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A (Google) (自动修正)",
+      "search_terms": [
+        "alphabet"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc. (自动修正)",
+      "search_terms": [
+        "fb"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc. (自动修正)",
+      "search_terms": [
+        "facebook"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc. (自动修正)",
+      "search_terms": [
+        "face book"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc. (自动修正)",
+      "search_terms": [
+        "meta platforms"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Class B (自动修正)",
+      "search_terms": [
+        "brk"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Class B (自动修正)",
+      "search_terms": [
+        "berkshire"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Class B (自动修正)",
+      "search_terms": [
+        "brk.a"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Class B (自动修正)",
+      "search_terms": [
+        "brk b"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Class B (自动修正)",
+      "search_terms": [
+        "berk shire"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation (自动修正)",
+      "search_terms": [
+        "cmcst"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation (自动修正)",
+      "search_terms": [
+        "comcast"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation (自动修正)",
+      "search_terms": [
+        "com cast"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation (自动修正)",
+      "search_terms": [
+        "cmcsa"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation (自动修正)",
+      "search_terms": [
+        "xom"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation (自动修正)",
+      "search_terms": [
+        "exxon"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation (自动修正)",
+      "search_terms": [
+        "exxon mobil"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation (自动修正)",
+      "search_terms": [
+        "ex on"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc. (自动修正)",
+      "search_terms": [
+        "aapl"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc. (自动修正)",
+      "search_terms": [
+        "apple"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc. (自动修正)",
+      "search_terms": [
+        "app le"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation (自动修正)",
+      "search_terms": [
+        "msft"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation (自动修正)",
+      "search_terms": [
+        "microsoft"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation (自动修正)",
+      "search_terms": [
+        "micro soft"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc. (自动修正)",
+      "search_terms": [
+        "amzn"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc. (自动修正)",
+      "search_terms": [
+        "amazon"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc. (自动修正)",
+      "search_terms": [
+        "am azon"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc. (自动修正)",
+      "search_terms": [
+        "tsla"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc. (自动修正)",
+      "search_terms": [
+        "tesla"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc. (自动修正)",
+      "search_terms": [
+        "tes la"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation (自动修正)",
+      "search_terms": [
+        "nvda"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation (自动修正)",
+      "search_terms": [
+        "nvidia"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation (自动修正)",
+      "search_terms": [
+        "nvid ia"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co. (自动修正)",
+      "search_terms": [
+        "jpm"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co. (自动修正)",
+      "search_terms": [
+        "jpmorgan"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co. (自动修正)",
+      "search_terms": [
+        "jpm chase"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc. (自动修正)",
+      "search_terms": [
+        "wmt"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc. (自动修正)",
+      "search_terms": [
+        "walmart"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc. (自动修正)",
+      "search_terms": [
+        "wal mart"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company (自动修正)",
+      "search_terms": [
+        "ko"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company (自动修正)",
+      "search_terms": [
+        "coca cola"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company (自动修正)",
+      "search_terms": [
+        "coke"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc. (自动修正)",
+      "search_terms": [
+        "pep"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc. (自动修正)",
+      "search_terms": [
+        "pepsi"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc. (自动修正)",
+      "search_terms": [
+        "pep si"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation (自动修正)",
+      "search_terms": [
+        "mcd"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation (自动修正)",
+      "search_terms": [
+        "mcdonalds"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation (自动修正)",
+      "search_terms": [
+        "mc donalds"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation (自动修正)",
+      "search_terms": [
+        "cvx"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation (自动修正)",
+      "search_terms": [
+        "chevron"
+      ],
+      "category": "correction",
+      "is_correction": true
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation (自动修正)",
+      "search_terms": [
+        "che vron"
+      ],
+      "category": "correction",
+      "is_correction": true
+    }
+  ],
+  "last_updated": "2026-02-07T20:26:15.023265",
+  "total_stocks": 310,
+  "version": "2.0",
+  "categories": {
+    "technology": 14,
+    "financial": 7,
+    "healthcare": 7,
+    "consumer": 1,
+    "industrial": 0,
+    "energy": 10,
+    "communication": 4,
+    "real_estate": 1,
+    "utilities": 3,
+    "other": 202
+  }
+}
